@@ -14,7 +14,7 @@ This portfolio is built using **HTML & CSS** and serves as my professional showc
 -   Frontend: HTML, CSS  
 
 ## 📷 Preview  
-![Portfolio Screenshot](URL_TO_YOUR_IMAGE) *(Replace with actual link to a screenshot of your portfolio)*  
+![Portfolio Screenshot](C:\Users\Katrikol\Pictures\Screenshots\Screenshot 2025-02-04 172335).
 
 ## 🔗 Live Demo  
 Check out my portfolio live here: [Portfolio Link](https://github.com/kathirvelBhagavathy/Portfolio.git) 
